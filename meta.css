@@ -1,0 +1,35 @@
+
+ .css img{
+ float: left;
+ width: 20%;
+ border: thin solid;
+ padding: 5px;
+ margin: 0px 15px 15px 0;
+}
+ 
+h4{
+    color: black;
+    font-family: fantasy;
+    font-size: 150%;
+    }
+
+     body{
+          background-color: rgb(181, 217, 231);
+        padding: 3%;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify; 
+    }
+    pre{
+        font-size: 15px;
+        font-family: sans-serif;
+    }
+    h3{
+        color: black;
+        font-family: fantasy;
+        text-align: center;
+      }
+
+       
+

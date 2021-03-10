@@ -1,0 +1,22 @@
+
+ .css img{
+ float: right;
+ width: 30%;
+ border: ;
+ padding: 20px;
+ margin: 15px 15px 15px 15px;
+}   
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 3%;
+font-weight: bolder;
+font-size: 20px;
+text-align: justify;
+ }
+ h3{
+     color: black;
+     font-family: fantasy;
+     text-align: center;
+
+ }
+
